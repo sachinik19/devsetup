@@ -10,7 +10,6 @@
         - $ git reset --hard origin/master
 
 - Install Ruby
-  - enter command "rbenv install "  and press tab, now enter the version no. u want to assign. rbenv install <version>
+  - enter command "rbenv install "  and press tab, now enter the version no. u want to install. rbenv install <version>
 - Install [Bundler](http://gembundler.com/). Also refer [this](http://gembundler.com/v1.3/bundle_install.html)
-
 
