@@ -1,4 +1,4 @@
 devsetup
 ========
 
-Development setup for various languages
+Development setup for various languages and technologies.
