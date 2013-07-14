@@ -1,6 +1,6 @@
 #Ruby and Rails Setup
 
-### On Mac
+### On Mac OS`
 - Install [Homebrew](https://github.com/mxcl/homebrew/wiki)
 - Install [Rbenv](https://github.com/sstephenson/rbenv)
     - In case of this error : "error: The following untracked working tree files would be overwritten by merge:"
